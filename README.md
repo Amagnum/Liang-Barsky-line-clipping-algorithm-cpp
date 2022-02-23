@@ -7,14 +7,14 @@ g++ liang_barsky.cpp > eliang
 ./eliang < liang.in
 ```
 
-# Input format
+## Input format
 ```
 Xmin Xmax Ymin Ymax
 P1x P1y
 P2x P2y
 ```
 
-# Output
+## Output
 ```
 p1 = -Δx = -50      q1 = x1 - x_min = -20
 p2 = Δx  = 50      q2 = x_max - x1 = 70
