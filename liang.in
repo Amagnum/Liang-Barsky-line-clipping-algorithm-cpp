@@ -1,0 +1,26 @@
+25 75 30 80
+5 20
+55 90
+
+
+10 50 10 50
+30 60
+60 25
+
+// Tut success
+5 9 5 9
+4 12
+8 8
+
+
+5 9 5 9
+4 12
+8 8
+
+
+Xmin Xmax Ymin Ymax
+P1x P1y
+P2x P2y
+
+g++ liang_barsky.cpp > eliang
+./eliang < liang.in
